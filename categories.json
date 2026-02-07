@@ -1,0 +1,66 @@
+[
+  {
+    "id": "practices",
+    "icon": "leaf-outline",
+    "names": {
+      "en": "Practices",
+      "ru": "Практики"
+    }
+  },
+  {
+    "id": "movies",
+    "icon": "film-outline",
+    "names": {
+      "en": "Movies",
+      "ru": "Фильмы"
+    }
+  },
+  {
+    "id": "books",
+    "icon": "book-outline",
+    "names": {
+      "en": "Books",
+      "ru": "Книги"
+    }
+  },
+  {
+    "id": "warmups-irina",
+    "icon": "fitness-outline",
+    "names": {
+      "en": "Warmups with Irina",
+      "ru": "Разминки с Ириной"
+    }
+  },
+  {
+    "id": "podcasts",
+    "icon": "mic-outline",
+    "names": {
+      "en": "Podcasts",
+      "ru": "Подкасты"
+    }
+  },
+  {
+    "id": "misc",
+    "icon": "help-outline",
+    "names": {
+      "en": "Miscellaneous",
+      "ru": "Разное"
+    }
+  },
+  {
+    "id": "apps",
+    "icon": "apps-outline",
+    "names": {
+      "en": "Apps",
+      "ru": "Приложения"
+    }
+  },
+  {
+    "id": "coach-files",
+    "icon": "briefcase-outline",
+    "names": {
+      "en": "Coach Files",
+      "ru": "Файлы для коуча"
+    }
+  }
+]
