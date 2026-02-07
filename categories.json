@@ -5,6 +5,10 @@
     "names": {
       "en": "Practices",
       "ru": "Практики"
+    },
+    "descriptions": {
+      "en": "Daily tools for steady progress",
+      "ru": "Ежедневные инструменты для прогресса"
     }
   },
   {
@@ -13,6 +17,10 @@
     "names": {
       "en": "Movies",
       "ru": "Фильмы"
+    },
+    "descriptions": {
+      "en": "Films that spark reflection",
+      "ru": "Фильмы для вдохновения и размышлений"
     }
   },
   {
@@ -21,6 +29,10 @@
     "names": {
       "en": "Books",
       "ru": "Книги"
+    },
+    "descriptions": {
+      "en": "Reads to deepen perspective",
+      "ru": "Книги для расширения взгляда"
     }
   },
   {
@@ -29,6 +41,10 @@
     "names": {
       "en": "Warmups with Irina",
       "ru": "Разминки с Ириной"
+    },
+    "descriptions": {
+      "en": "Short sessions to reset",
+      "ru": "Короткие разминки для перезагрузки"
     }
   },
   {
@@ -37,6 +53,10 @@
     "names": {
       "en": "Podcasts",
       "ru": "Подкасты"
+    },
+    "descriptions": {
+      "en": "Listen for ideas and focus",
+      "ru": "Подкасты для идей и фокуса"
     }
   },
   {
@@ -45,6 +65,10 @@
     "names": {
       "en": "Miscellaneous",
       "ru": "Разное"
+    },
+    "descriptions": {
+      "en": "Extra resources worth keeping",
+      "ru": "Дополнения, которые стоит сохранить"
     }
   },
   {
@@ -53,6 +77,10 @@
     "names": {
       "en": "Apps",
       "ru": "Приложения"
+    },
+    "descriptions": {
+      "en": "Helpful tools for habits",
+      "ru": "Полезные приложения для привычек"
     }
   },
   {
@@ -61,6 +89,10 @@
     "names": {
       "en": "Coach Files",
       "ru": "Файлы для коуча"
+    },
+    "descriptions": {
+      "en": "Resources reserved for coaches",
+      "ru": "Материалы, доступные коучам"
     }
   }
 ]

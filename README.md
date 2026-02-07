@@ -1,21 +1,18 @@
-# Mighty Go Library Guides
+# Mighty Go Library
 
-This folder contains practical guidance for maintaining the content that powers the Mighty Go in-app library.
+Content repository for the Mighty Go in-app library. The mobile app fetches the JSON files from this repo and renders categories, articles, and localized content.
 
 ## Repository Layout
 - `categories.json`
-  - Defines the library categories and their localized names.
+  - Category metadata with localized titles and short descriptions.
 - `articles.json`
   - Global index of all articles and their metadata.
 - `locales/{lang}.json`
-  - Language bundles that hold the actual article text for each locale.
+  - Language bundles with article content per locale.
+- `guides/README.md`
+  - Authoring guide and examples.
 
-## Add A New Category
-1. Add a new entry to `categories.json`.
-2. Use a stable `id` and provide `names` for each supported language.
-3. Pick an icon from the Expo Ionicons set (use the outline variants when possible).
-
-Example:
+## Category Schema
 ```json
 {
   "id": "focus",
@@ -23,17 +20,15 @@ Example:
   "names": {
     "en": "Focus & Flow",
     "ru": "Фокус и поток"
+  },
+  "descriptions": {
+    "en": "Short focus routines",
+    "ru": "Короткие фокус практики"
   }
 }
 ```
 
-## Add A New Article
-1. Add a new entry to `articles.json`.
-2. Reference an existing `categoryId`.
-3. Set `teacherLocked` to `true` if only teacher-linked students should see it.
-4. List every language you plan to ship in `availableLanguages`.
-
-Example:
+## Article Schema
 ```json
 {
   "id": "morning-reset",
@@ -43,11 +38,7 @@ Example:
 }
 ```
 
-## Add Article Content
-1. Open `locales/{lang}.json` for each language in `availableLanguages`.
-2. Add a matching key with `title` and `text` (and optional `link`, `linkLabel`).
-
-Example:
+## Locale Entry Schema
 ```json
 {
   "morning-reset": {
@@ -59,8 +50,6 @@ Example:
 }
 ```
 
-## Review Checklist
-- Category IDs match article `categoryId` values.
-- Article IDs exist in every locale file listed in `availableLanguages`.
-- `teacherLocked` is only used when the article should be hidden from unlinked students.
-- JSON stays valid (run a JSON formatter before commit).
+## Notes
+- Each article only needs the locales listed in `availableLanguages`.
+- Missing locale files will cause a 404 in the app, so always add a file for each supported language (even if empty).
