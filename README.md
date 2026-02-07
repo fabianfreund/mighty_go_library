@@ -53,3 +53,4 @@ Content repository for the Mighty Go in-app library. The mobile app fetches the 
 ## Notes
 - Each article only needs the locales listed in `availableLanguages`.
 - Missing locale files will cause a 404 in the app, so always add a file for each supported language (even if empty).
+- Article `text` supports limited HTML tags in the app: `p`, `br`, `strong`, `em`, `ol`, `ul`, `li`, `pre`, `code`.
