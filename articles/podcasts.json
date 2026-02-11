@@ -1,0 +1,106 @@
+[
+  {
+    "id": "aleksandr-sokolovskiy",
+    "categoryId": "podcasts",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "orkhan-mustafaev",
+    "categoryId": "podcasts",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "huberman-lab-na-russkom-yazyke",
+    "categoryId": "podcasts",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "libolibo",
+    "categoryId": "podcasts",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "ted-na-russkom",
+    "categoryId": "podcasts",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "aleksey-golubev",
+    "categoryId": "podcasts",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "asel-mashanova",
+    "categoryId": "podcasts",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "financegramm",
+    "categoryId": "podcasts",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "nikolay-chernobaev",
+    "categoryId": "podcasts",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "gleb-solomin",
+    "categoryId": "podcasts",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "arman-yusupov",
+    "categoryId": "podcasts",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "vselennaya-plyus",
+    "categoryId": "podcasts",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "olga-mikitas-i-proekt-zavtrak-s-kilinoy",
+    "categoryId": "podcasts",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  }
+]

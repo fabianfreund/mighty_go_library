@@ -1,0 +1,250 @@
+[
+  {
+    "id": "ogranichivayushchie-ubezhdeniya",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "strakhi",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "abv-avtomaticheskaya-mysl-baza-variant",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "chto-mnoy-dvizhet",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "dialog-s-vnutrennim-kritikom",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "meditatsiya-dve-dorogi",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "pismo-sebe-iz-budushchego",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "chto-by-skazala-silnoe-ya",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "supermen",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "dlya-snizheniya-trevozhnosti",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "stul",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "zerkalo",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "spisok-zhelaniy",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "askeza",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "kakaya-emotsiya",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "prinyatie-resheniy",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "budilnik-kak-ya",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "spisok-moikh-khoroshikh-kachestv",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "progulka",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "trenirovat-emotsionalnyy-intellekt",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "pereformulirovka-problemy",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "vzglyad-na-problemu-s-raznykh-tochek-zreniya",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "perevorot-problemy",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "sbor-fakty",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "layfkhak-ot-eynshteyna",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "ekh-tak-zhalko",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "12-podskazok-dlya-zdorovogo-sna",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "vykhod-iz-stressa-za-912-minut",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "ezhednevnaya-doza-schastya",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "smena-smyslov",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "perelom-avtomatizma",
+    "categoryId": "practices",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  }
+]
