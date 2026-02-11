@@ -1,0 +1,266 @@
+[
+  {
+    "id": "1-15-minut-na-stule",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "2-15-minut-na-stule",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "3-15-minut-na-stule",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "4-15-minut-na-stule",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "1-30-minut-trenirovka",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "5-15-minut-na-stule",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "2-30-minut-trenirovka",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "neyrografika",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "6-15-minut-na-stule",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "7-15-minut-na-stule",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "8-15-minut-na-stule",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "3-30-minut-trenirovka",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "9-15-minut-na-stule",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "10-15-minut-na-stule",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "11-15-minut-na-stule",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "12-15-minut-na-stule",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "1-dykhatelnaya-praktika",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "2-dykhatelnaya-praktika",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "3-dykhatelnaya-praktika",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "13-15-minut-na-stule",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "4-dykhatelnaya-praktika",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "1-korotkaya-zaryadka",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "14-15-minut-na-stule",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "5-dykhatelnaya-praktika",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "6-dykhatelnaya-praktika",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "2-korotkaya-zaryadka",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "7-dykhatelnaya-praktika",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "8-dykhatelnaya-praktika",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "9-dykhatelnaya-praktika",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "3-korotkaya-zaryadka",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "4-korotkaya-zaryadka",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "5-korotkaya-zaryadka",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "6-korotkaya-zaryadka",
+    "categoryId": "warmups-irina",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  }
+]

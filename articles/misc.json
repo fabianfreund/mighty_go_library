@@ -1,0 +1,18 @@
+[
+  {
+    "id": "quiz-land",
+    "categoryId": "misc",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "vybor-edit-eger",
+    "categoryId": "misc",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  }
+]

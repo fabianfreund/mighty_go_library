@@ -5,12 +5,10 @@ Content repository for the Mighty Go in-app library. The mobile app fetches the 
 ## Repository Layout
 - `categories.json`
   - Category metadata with localized titles and short descriptions.
-- `articles.json`
-  - Global index of all articles and their metadata.
-- `locales/{lang}.json`
-  - Language bundles with article content per locale.
-- `guides/README.md`
-  - Authoring guide and examples.
+- `articles/{categoryId}.json`
+  - Article metadata grouped by category.
+- `locales/{lang}/{categoryId}.json`
+  - Localized article content per language and category.
 
 ## Category Schema
 ```json

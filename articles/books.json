@@ -1,0 +1,210 @@
+[
+  {
+    "id": "magiya-utra-khel-elrod",
+    "categoryId": "books",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "podsoznanie-mozhet-vsyo-dzhozef-myorfi",
+    "categoryId": "books",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "sila-tvoey-istorii-kendra-kholl",
+    "categoryId": "books",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "vyydi-iz-zony-komforta-brayan-treysi",
+    "categoryId": "books",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "psikhologiya-schastya-martin-seligman",
+    "categoryId": "books",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "essentsializm-put-k-prostote-greg-makkeon",
+    "categoryId": "books",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "100-sposobov-izmenit-zhizn-larisa-parfenteva",
+    "categoryId": "books",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "bogatyy-papa-bednyy-papa-robert-kiyosaki",
+    "categoryId": "books",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "7-navykov-vysokoeffektivnykh-lyudey-stiven-kovi",
+    "categoryId": "books",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "ne-noy-dzhen-sinsero",
+    "categoryId": "books",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "potok-psikhologiya-optimalnogo-perezhivaniya-mikhay-chiksentmikhayi",
+    "categoryId": "books",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "samyy-bogatyy-chelovek-v-vavilone-dzhordzh-kleyson",
+    "categoryId": "books",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "emotsionalnyy-intellekt-deniel-goulman",
+    "categoryId": "books",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "na-predele-stiven-kotler",
+    "categoryId": "books",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "kak-privesti-dela-v-poryadok-devid-allen",
+    "categoryId": "books",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "soznanie-i-mozg-stanislas-dean",
+    "categoryId": "books",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "mindset-novaya-psikhologiya-uspekha-kerol-duek",
+    "categoryId": "books",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "vliyanie-psikhologiya-ubezhdeniya-robert-chaldini",
+    "categoryId": "books",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "dumay-medlenno-reshay-bystro-daniel-kaneman",
+    "categoryId": "books",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "atomnye-privychki-dzheyms-klir",
+    "categoryId": "books",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "skazhi-zhizni-da-viktor-frankl",
+    "categoryId": "books",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "genii-i-autsaydery-malkolm-gladuell",
+    "categoryId": "books",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "kvantovyy-voin-dzhon-kekho",
+    "categoryId": "books",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "vazhnye-gody-meg-dzhey",
+    "categoryId": "books",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "biologiya-dobra-i-zla-robert-rayt",
+    "categoryId": "books",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "vybor-edit-eva-eger",
+    "categoryId": "books",
+    "teacherLocked": false,
+    "availableLanguages": [
+      "ru"
+    ]
+  }
+]

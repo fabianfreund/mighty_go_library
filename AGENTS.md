@@ -12,14 +12,13 @@ This repo contains the content for the Mighty Go library. It is consumed by the 
 
 ### Archivist 📚
 - **Mission:** Maintain repo clarity and alignment.
-- **Tasks:** Update docs (`README.md`, `AGENTS.md`, `guides/README.md`).
+- **Tasks:** Update docs (`README.md`, `AGENTS.md`).
 - **Focus:** Documentation accuracy and content structure.
 
 ## Structure
 - `categories.json`: category metadata with localized names and descriptions.
-- `articles.json`: list of all articles and metadata.
-- `locales/{lang}.json`: localized article content by language.
-- `guides/README.md`: authoring guidelines.
+- `articles/{categoryId}.json`: list of all articles and metadata by category.
+- `locales/{lang}/{categoryId}.json`: localized article content per language and category.
 
 ## Conventions
 - Keep JSON valid and formatted.

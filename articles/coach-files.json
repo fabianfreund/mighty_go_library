@@ -1,0 +1,34 @@
+[
+  {
+    "id": "struktura-rabochego-dnya-koucha",
+    "categoryId": "coach-files",
+    "teacherLocked": true,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "struktura-pervogo-kouch-sozvona",
+    "categoryId": "coach-files",
+    "teacherLocked": true,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "struktura-mastermaynda",
+    "categoryId": "coach-files",
+    "teacherLocked": true,
+    "availableLanguages": [
+      "ru"
+    ]
+  },
+  {
+    "id": "chastye-problemy",
+    "categoryId": "coach-files",
+    "teacherLocked": true,
+    "availableLanguages": [
+      "ru"
+    ]
+  }
+]
