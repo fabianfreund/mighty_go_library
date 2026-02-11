@@ -1,7 +1,13 @@
 {
   "vybor-edit-eger": {
-    "title": "\"Выбор — Эдит Егер",
+    "title": "Выбор — Эдит Егер",
     "text": "",
+    "link": "",
+    "linkLabel": ""
+  },
+  "quiz-land": {
+    "title": "Quiz Land",
+    "text": "<p>Интерактивные викторины для проверки знаний и расширения кругозора.</p>",
     "link": "",
     "linkLabel": ""
   }
