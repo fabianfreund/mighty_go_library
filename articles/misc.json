@@ -12,7 +12,8 @@
     "categoryId": "misc",
     "teacherLocked": false,
     "availableLanguages": [
-      "ru"
+      "ru",
+      "en"
     ]
   }
 ]
